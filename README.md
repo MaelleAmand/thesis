@@ -7,3 +7,5 @@ Herment, Sophie Professeure Université Aix-Marseille, Rapporteure
 Przewozny, Anne Maître de conférence HDR Université Toulouse Jean-Jaurès, Rapporteure
 Watt, Dominic Senior Lecturer Université de York, Examinateur
 Fischer, Aurélie Maître de conférence Université de Paris, Examinatrice
+
+To download the pdf file, right click on the file and save.
